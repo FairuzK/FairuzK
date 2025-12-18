@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fairuz Kaweesa</h1>
+<h1 align="center">Hi 👋, I'm Fairuz K</h1>
 <h3 align="center">An AWS Solutions Architect specialized in designing, deploying, and optimizing scalable, secure, and cost-effective cloud solutions that empower businesses to innovate and thrive in the digital age. My expertise lies in leveraging AWS services to architect robust systems that meet the unique needs of organizations, from startups to enterprise-level clients.</h3>
 
 - 🌱 I’m currently learning **Bash Scripting.**

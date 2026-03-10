@@ -1,91 +1,70 @@
-<div align="center">
+<h2 align="left">👋🏻 Hey there! I'm Fairuz.</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=200&section=header&text=Snigdha%20Chaudhari%20☁️&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20%7C%20Always%20Creating&descAlignY=55&descSize=20" />
+###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8FAADC&center=true&vCenter=true&width=600&lines=Developer+Advocate;AWS+%7C+DevOps+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
+<p align="left">I am Fairuz Kaweesa, currently a customer support specialist with an aim to revolutionize cloud solutions.<br> I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in AWS and building scalable products from scratch, with the commitment to making a positive impact through technology.<br><br>Feel free to connect with me @fairuzk for all things tech or just to say hello! Let's shape the future of tech together.</p>
 
-<img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=8FAADC&style=flat-square" alt="Profile Views" />
+###
 
-</div>
+<h2 align="left">My Mission 💡</h2>
 
----
+###
 
-## 🌩️ My Cloud Mission  
+<br clear="both">
 
-🚀 Designing scalable, resilient cloud architectures  
-🛠️ Automating everything - IaC, CI/CD, serverless apps  
-📚 Learning continuously + sharing through blogs & projects  
-🌱 Exploring Kubernetes, CDK patterns, cloud security  
+<p align="left">📚 Learning continuously + sharing through blogs & projects <br>🚀 Designing scalable, resilient cloud architectures<br>🛠️ Automating everything - IaC, CI/CD, serverless apps<br>🌱 Exploring Kubernetes, CDK patterns, cloud securit</p>
 
----
+###
 
-## 🏅 Cloud Credentials  
+<h3 align="center">Tech Stack  👨🏼‍🔧</h3>
 
-- 🟠 AWS Certified Cloud Practitioner
-- 🟠 AWS Certified AI Practitioner  
-- 🟠 AWS Solutions Architect Associate  
-- 🔵 Microsoft Azure Fundamentals (AZ-900)  
+###
 
----
+<br clear="both">
 
-## 🛠️ Tech Stack  
+<img align="right" height="200" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"  />
+
+###
 
 <div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-383838?style=for-the-badge&logo=terraform&logoColor=623CE4)
-![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-383838?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-383838?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![Python](https://img.shields.io/badge/Python-383838?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-383838?style=for-the-badge&logo=node.js&logoColor=339933)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
 </div>
 
----
+###
 
-## 📌 Featured Projects  
+<h4 align="left">Connect with me</h4>
 
-- 🚀 **Three-Tier Web App on AWS** - EC2 + RDS + S3 scalable stack  
-- 🔒 **Threat Detection with SageMaker** - ML pipeline for cyber threats  
-- 📄 **PDFGenie** - Serverless PDF generator with Lambda + S3  
+###
 
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  <a href="+256756522896" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
-## 📈 Stats  
+###
+
+<p align="left">Reach out to me: kaweesafairuz@gmail.com</p>
+
+###
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crystallyrains&show_icons=true&theme=github_dark&hide_border=true" />  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crystallyrains&theme=github-dark&hide_border=true" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystallyrains&layout=compact&theme=github_dark&hide_border=true" />  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crystallyrains&theme=github-dark&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fairuzk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FairuzK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
-
-## 🤝 Let’s Connect  
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/snigdha-chaudhari/">
-  <img src="https://img.shields.io/badge/LinkedIn-383838?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://snigdhachaudhari.hashnode.dev/">
-  <img src="https://img.shields.io/badge/Hashnode-383838?style=for-the-badge&logo=hashnode&logoColor=2962FF" />
-</a>
-<a href="mailto:snigdhachaudhari1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-383838?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark" />  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=120&section=footer" />
-
-</div>
+###

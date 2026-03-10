@@ -16,17 +16,13 @@
 
 ###
 
-<h3 align="center">Tech Stack  👨🏼‍🔧</h3>
+<h3 align="left">Tech Stack  👨🏼‍🔧</h3>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"  />
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Learning continuously + sharing through blogs & projects <br>🚀 Designing scalable, resilient cloud architectures<br>🛠️ Automating everything - IaC, CI/CD, serverless apps<br>🌱 Exploring Kubernetes, CDK patterns, cloud securit</p>
+<p align="left">📚 Learning continuously + sharing through blogs & projects <br>🚀 Designing scalable, resilient cloud architectures<br>🛠️ Automating everything - IaC, CI/CD, serverless apps<br>🌱 Exploring Kubernetes, CDK patterns, cloud security </p>
  <img align="right" height="200" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"  />
 
 ###
@@ -56,6 +56,7 @@
 <p align="left">Reach out to me: kaweesafairuz@gmail.com</p>
 
 ###
+# My Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FairuzK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

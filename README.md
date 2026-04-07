@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My Mission 💡</h2>
+<h2 align="left">My Mission. 💡</h2>
 
 ###
 

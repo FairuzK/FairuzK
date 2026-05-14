@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Fairuz Kaweesa, currently a customer support specialist with an aim to revolutionize cloud solutions.<br> I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in AWS and building scalable products from scratch, with the commitment to making a positive impact through technology.<br><br>Feel free to connect with me @fairuzk for all things tech or just to say hello! Let's shape the future of tech together.</p>
+<p align="left">I am Fairuz Kaweesa, currently a customer support specialist to revolutionize cloud solutions.<br> I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in AWS and building scalable products from scratch, with the commitment to making a positive impact through technology.<br><br>Feel free to connect with me @fairuzk for all things tech or just to say hello! Let's shape the future of tech together.</p>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">Tech Stack 👨🏼‍🔧</h3>
+<h3 align="left">My Tech Stack 👨🏼‍🔧</h3>
 
 ###
 

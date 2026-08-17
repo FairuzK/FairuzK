@@ -1,18 +1,21 @@
-<h2 align="left">👋🏻 Hi, I'm Fairuz.</h2>
+## 👋🏻 Hi, I'm Fairuz.
 
-###
 #### DevOps Engineer | AWS • Linux • Bash • Docker • Terraform • CI/CD • Kubernetes
 *Building and automating cloud infrastructure on AWS*
 
-<p align="left">I am Fairuz Kaweesa, currently a customer support specialist at Revolutionize Cloud Solutions.<br> I have a passion for problem-solving and pioneering first-principles thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in AWS and building scalable products from scratch, with the commitment to making a positive impact through technology.<br><br>Feel free to connect with me @fairuzk for all things tech or just to say hello! Let's shape the future of tech together.</p>
+---
+
+#### About Me
+I'm a DevOps Engineer with a focus on AWS, Infrastructure as Code (IaaS), and automation.<br>
+I build systems that are secure, stable, and well-structured from the start — not patched together after something breaks.
 
 ###
 
-<h2 align="left">My Mission. 💡</h2>
+<h2 align="left">I Enjoy.💡</h2>
 
 ###
 
-<p align="left">📚 Learning continuously + sharing through blogs & projects <br>🚀 Designing scalable, resilient cloud architectures<br>🛠️ Automating everything - IaC, CI/CD, serverless apps<br>🌱 Exploring Kubernetes, CDK patterns, cloud security </p>
+<p align="left">🚀 Designing cloud infrastructure that is actually operable <br>🚀 Designing scalable, resilient cloud architectures<br>🛠️ Automating the manual and repetitive work. <br>📚 Learning from Others.. <br>🌱 Exploring Kubernetes, CDK patterns, cloud security </p>
  <img align="right" height="200" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"  />
 
 ###

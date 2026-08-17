@@ -1,6 +1,8 @@
 <h2 align="left">👋🏻 Hi, I'm Fairuz.</h2>
 
 ###
+#### DevOps Engineer | AWS • Linux • Bash • Docker • Terraform • CI/CD • Kubernetes
+*Building and automating cloud infrastructure on AWS*
 
 <p align="left">I am Fairuz Kaweesa, currently a customer support specialist at Revolutionize Cloud Solutions.<br> I have a passion for problem-solving and pioneering first-principles thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in AWS and building scalable products from scratch, with the commitment to making a positive impact through technology.<br><br>Feel free to connect with me @fairuzk for all things tech or just to say hello! Let's shape the future of tech together.</p>
 
@@ -20,22 +22,10 @@
 ###
 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,githubactions,git,kubernetes" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
-</div>
-
-###
 
 <h4 align="left">Connect with me</h4>
 

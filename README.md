@@ -1,4 +1,4 @@
-<h2 align="left">👋🏻 Hey there!  I'm Fairuz.</h2>
+<h2 align="left">👋🏻 Hi, I'm Fairuz.</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">My Tech Stack 👨🏼‍🔧</h3>
+<h3 align="left"> Tech Stack - Languages & Tools </h3>
 
 ###
 
